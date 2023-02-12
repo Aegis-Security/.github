@@ -9,7 +9,6 @@ on your computer.
 ### For everyone, we create...
 - Aegis Antivirus, our FOSS[^1] antivirus software
 - Aegis Block, our FOSS content blocker (ad block)
-- Aegis Firewall, our FOSS firewall software
 
 ### For developers, we create...
 - Aegis Definitions, our open-source virus definitions
