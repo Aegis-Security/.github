@@ -7,12 +7,10 @@ on your computer.
 
 ## What do we create?
 ### For everyone, we create...
-- Aegis Antivirus, our FOSS[^1] antivirus software
-- Aegis Block, our FOSS content blocker (ad block)
-- Aegis VPN, our FOSS VPN (virtual private network)
+- Aegis Antivirus, our antivirus software
+- Aegis Block, our content blocker (ad block)
+- Aegis VPN, our VPN (virtual private network)
 
 ### For developers, we create...
 - Aegis Definitions, our open-source virus definitions
 - Aegis Filter, our open-source ad filter list
-
-[^1]: FOSS stands for "Free and Open-Source"
